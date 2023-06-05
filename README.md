@@ -323,8 +323,8 @@ Zoom.xml
 ```
 
 ### OUTPUT:
-![](https://github.com/KATHIR1611/MAD--11/blob/main/ui%203.png)
-![](https://github.com/KATHIR1611/MAD--11/blob/main/ui%204.png)
+<img src="https://github.com/KATHIR1611/MAD--11/blob/main/ui%203.png" width=300 height=400> <img src="https://github.com/KATHIR1611/MAD--11/blob/main/ui%204.png" width=300 height=400>
+
 
 ### RESULT:
 
